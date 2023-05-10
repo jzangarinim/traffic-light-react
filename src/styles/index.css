@@ -15,18 +15,6 @@
   width: 200px;
 }
 
-.red-light {
-  background-color: red;
-}
-
-.yellow-light {
-  background-color: yellow;
-}
-
-.green-light {
-  background-color: green;
-}
-
 .selected {
   outline: none;
   border-color: #9ecaed;
