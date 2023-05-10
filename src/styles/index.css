@@ -1,4 +1,3 @@
-
 /* 
 
     You can write your own styles here...
@@ -10,3 +9,26 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.street-light {
+  height: 200px;
+  width: 200px;
+}
+
+.red-light {
+  background-color: red;
+}
+
+.yellow-light {
+  background-color: yellow;
+}
+
+.green-light {
+  background-color: green;
+}
+
+.selected {
+  outline: none;
+  border-color: #9ecaed;
+  box-shadow: 0 0 50px #9ecaed;
+}
